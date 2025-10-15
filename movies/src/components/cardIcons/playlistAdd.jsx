@@ -1,6 +1,6 @@
 import React from "react";
-import PlaylistAddIcon from '@mui/icons-material/PlaylistAdd';
-import IconButton from '@mui/material/IconButton';
+import IconButton from "@mui/material/IconButton";
+import PlaylistAddIcon from "@mui/icons-material/PlaylistAdd";
 
 const PlaylistAdd = ({ movie }) => {
   return (
@@ -9,5 +9,7 @@ const PlaylistAdd = ({ movie }) => {
     </IconButton>
   );
 };
+
+//new playlist icon
 
 export default PlaylistAdd;
