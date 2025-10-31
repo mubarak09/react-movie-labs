@@ -6,6 +6,7 @@ import PageTemplate from "../components/templateMoviePage";
 import { getMovie } from '../api/tmdb-api';
 import { useQuery } from '@tanstack/react-query';
 import Spinner from '../components/spinner';
+import AddToWatchLaterIcon from "../components/cardIcons/addToWatchLaterIcon";
 
 
 const MoviePage = (props) => {
@@ -30,7 +31,7 @@ const MoviePage = (props) => {
         <>
           <PageTemplate movie={movie}>
             <MovieDetails movie={movie} />
-            <MovieRecommendations movieId={id} />
+            <AddToWatchLaterIcon movie={movie} /> 
           </PageTemplate>
         </>
       ) : (
