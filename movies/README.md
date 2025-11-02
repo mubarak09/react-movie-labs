@@ -1,16 +1,51 @@
-# React + Vite
+[![Tool](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)](https://vitejs.dev/)
+[![Tool](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![Tool](https://img.shields.io/badge/Material-UI-61DAFB.svg?style=for-the-badge&logo=Material-UI&logoColor=white)](https://mui.com/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🎬 React Movie Labs
 
-## React Compiler
+A modern React-based movie discovery and management application built with Vite, React Query, and Material-UI. This application allows users to browse, search, and manage their favorite movies using data from The Movie Database (TMDB) API.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎥 Browse popular, top-rated, and upcoming movies
+- 🔍 Search for movies by title
+- ❤️ Add movies to favorites and watch later lists
+- 📱 Responsive design for all screen sizes
+- ⚡ Fast and efficient data fetching with React Query
+- 🎨 Modern UI with Material-UI components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Installations 
+
+- Node.js (v16 or later)
+- npm 
+- TMDB API key 
+
+
+## 🛠️ Tech Stack
+
+- React: Our main JavaScript framework for building user interfaces
+- Vite: A fast development server and build tool that helps speed up our development process
+- React Query (TanStack Query): A library that helps us manage and manage our data fetching and caching
+- Material-UI (MUI): A design system that provides us with pre-built components and styles to make our UI look and feel more polished
+- React Router: A library that helps us manage our app's navigation and routing
+
+
+## 🧑‍💻 Authors
+
+Contributors names and contact info
+
+Mubarak Al
+[@Mubarak09](https://github.com/mubarak09)
+
+## 🙏 Acknowledgments
+
+- [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the movie data
+- [Material-UI](https://mui.com/) for the UI components
+
+
+Developed by Mubarak Al
