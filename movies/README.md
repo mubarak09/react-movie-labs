@@ -35,6 +35,47 @@ A modern React-based movie discovery and management application built with Vite,
 - React Router: A library that helps us manage our app's navigation and routing
 
 
+## Table of Contents
+1. [Home Page](#home-page)
+2. [Browsing Movies](#browsing-movies)
+3. [Searching](#searching)
+4. [Favorites](#favorites)
+5. [Watch Later](#watch-later)
+6. [Movie Details](#movie-details)
+
+# 📖 React Movie Labs - User Guide
+
+## 🏠 Home Page
+- View trending, top-rated, and upcoming movies
+- Scroll through movie cards horizontally
+- Click "View More" to see all movies in a category
+
+## 🎥 Browsing Movies
+- Use the navigation bar to switch categories
+- Scroll through movie cards
+- Click on a movie for details
+
+## 🔍 Searching
+1. Click the search icon
+2. Type movie title or keywords
+3. Results update as you type
+
+## ❤️ Favorites
+- Click ❤️ on any movie card to add to favorites
+- Access favorites from the navigation
+- Click ❤️ again to remove
+
+## ⏱️ Watch Later
+- Click ⏱️ to save movies for later
+- Access your list from the navigation
+- Click again to remove
+
+## 🎬 Movie Details
+- View movie poster and info
+- Read plot summary
+- Watch trailers
+- See cast and similar movies
+
 ## 🧑‍💻 Authors
 
 Contributors names and contact info
